@@ -5,3 +5,4 @@ data/
 models/
 *.pt
 test_setup.py
+test_image.py
