@@ -1,0 +1,2 @@
+PROJECT_NAME = "Netra.AI"
+VERSION = "0.1"
